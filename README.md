@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,tensorflow" />
 </p>
 
----
+ 
 <div align="left">
 
 <a href="mailto:yourmail@gmail.com">
