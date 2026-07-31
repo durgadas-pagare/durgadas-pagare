@@ -4,7 +4,7 @@
 
 🎓 BCA Student
 
-💻 Java | Python | C Developer
+💻 | Python Developer |
 
 🌱 Learning Data Science
 
