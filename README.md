@@ -14,9 +14,10 @@
  
  
 ## 🚀 Skills
+ 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,tensorflow" />
 </p>
 
 ---
