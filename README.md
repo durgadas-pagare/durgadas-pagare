@@ -14,7 +14,7 @@
 
 ## 🚀 Skills
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,machinelearning,aritificialintellingence,deeplearning,powerbi,  " />
 
 ---
  
