@@ -17,18 +17,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github" />
 
 ---
-
-## 🌐 Connect with me
-
-- Instagram
-- LinkedIn
-- Gmail
-
----
-
-## 📂 Projects
-
-⭐ Movie Recommendation System
-
+ 
  
  
