@@ -1,0 +1,14 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: durgadas-pagare
+          outputs: dist/github-snake.svg
