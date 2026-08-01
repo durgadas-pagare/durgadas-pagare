@@ -29,3 +29,6 @@
 </a>
 
 </div>
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/durgadas-pagare/durgadas-pagare/blob/output/github-snake.svg)
