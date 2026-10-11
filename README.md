@@ -1,4 +1,5 @@
-# Hey👋! My name is Durgadas Pagare | I'm a Python Developer | Data Science Enthusiast from Maharashtra, India.
+# Hey 👋! I'm Durgadas Pagare | Java Full Stack Developer | Passionate About Building Web Applications | From Maharashtra, Indian
+
  
 
  
